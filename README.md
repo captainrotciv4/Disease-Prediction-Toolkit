@@ -127,3 +127,17 @@ Accuracy: 0.90, Precision: 0.88, Recall: 0.91, F1-Score: 0.89, ROC-AUC: 0.95
 - Exploring explainable AI (XAI) techniques to understand model decisions.
 - Handling imbalanced datasets more robustly (e.g., SMOTE).
 
+## Demo Video
+https://drive.google.com/file/d/1H_yH1nJZ-TVscKRv6PGgRuujLVAjdexH/view?usp=sharing
+
+## Presentation
+https://docs.google.com/presentation/d/14WfHASnEBrFDB3YcAYAXq7lUejxEbMVn5-lUV8QGQRw/edit?usp=sharing
+
+## Contact
+- Your Name: Victor Muoki
+- GitHub: www.github.com/captainrotciv4
+- LinkedIn: www.linkedin.com/in/victor-muoki-2a1a50244
+
+## License
+This project is licensed under the MIT License 
+- 
